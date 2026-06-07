@@ -12,7 +12,7 @@
             user-select: none; /* Prevents accidental text selection while clicking game items */
         }
 
-        body {
+        body { 
             background: linear-gradient(145deg, #ffe4ec 0%, #ffc0d0 100%);
             min-height: 100vh;
             display: flex;
